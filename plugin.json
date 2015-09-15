@@ -1,0 +1,12 @@
+﻿{
+  "ID":"8d80430bbaeb4e49a002213c3bd88c66",  
+  "ActionKeyword":"tt",                   
+  "Name":"Wox.Plugin.Timestamp",                             
+  "Description":"Converting between timestamps and formatted datetime strings",    
+  "Author":"cxfksword",                    
+  "Version":"1.0.0",                        
+  "Language":"csharp",                       
+  "Website":"https://github.com/cxfksword/Wox.Plugin.Timestamp",        
+  "IcoPath": "Images\\app.png",              
+  "ExecuteFileName":"Wox.Plugin.Timestamp.dll"  
+}
